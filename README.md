@@ -1,6 +1,6 @@
 <div align="center">
 
-# ⚙️ Build · Deploy · Test
+# ⚙️ Build ·  Test · Deploy 
 
 ### `2 labs` · `6 pipeline jobs` · `8 security & cloud jobs` · `2026 toolchain`
 
